@@ -136,7 +136,7 @@ Organized Wonder Video Archive
 
 ### Tools & Resources
 
-When we taught the, one of the things I deeply believe is that it's much easier to teach people design tools than it is to teach
+We taught the Product workshop at Columbia University's Brown Institute and we got confirmation for one of the things that I deeply believe which is that it's much easier to teach people design tools than it is to teach them to code.
 
 To Design:
 ⚒ [Sketch](https://www.sketchapp.com/)
