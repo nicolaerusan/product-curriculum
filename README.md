@@ -8,7 +8,7 @@ This resource is based on our exepriences running product teams at startups, med
 
 If you know anyone who is trying to learn how to become a ‘product’ designer/manager, or looking to learn more about that role, there will likely be something interesting and useful for them in this set of resources. Send it along and spread the knowledge!
 
-**Disclaimesr**: 
+**Disclaimer**: 
 * The list is heavily focused on people building internet based digital products. It also leans heavily towards taking a more heavily towards building startups because that's where we've spent the majority of our time.
 * This list will certainly be opinionanted, as it happens to be a collection of the resources we found valuables as we developed our skills. Others may find a different set of lessons & resources to be crucial to developing your sense of building great products.
 
