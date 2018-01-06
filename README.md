@@ -47,7 +47,7 @@ There are resources out there that can help you get your bearings in Code, in De
 
 This list has useful resources we’ve come across, but we’d like to invite you to contribute interesting resources you’ve found as well. What has helped you get a better grasp of product? What are good books that give people a high level understanding of design and code? What do you think is important to learn about in each domain and what are good resources that explain them (blog posts, online courses, videos?). This is just a grab-bag we thought was useful, and if the community adds some resources as well we can work together to stitch a compelling outline of what a product school curriculum might look like.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
@@ -65,6 +65,8 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Intercom on Product Management](https://www.intercom.com/books/product-management)
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ---
 
 ## Design
@@ -74,7 +76,9 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 📖 [Stanford d.school Design Process](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
 
 📖 Also their whole d.school toolkit & reading lists:
+
 [d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
+
 [d.school Getting Unstuck Exercise](https://dschool.stanford.edu/resources/getting-unstuck)
 
 📖 [Ten Usability Heuristics by Nielsen Norman Group](http://www.nngroup.com/articles/ten-usability-heuristics/)
@@ -87,23 +91,31 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 **Books**
 
 😺 Books _by Edward Tufte_:
+
 &nbsp;&nbsp; 📚 [The Visual Display of Quantitative Information _by Edward Tufte_](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=asap_bc?ie=UTF8) 
+
 &nbsp;&nbsp; 📚 [Envisioning Information _by Edward Tufte_](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=asap_bc?ie=UTF8)
+
 &nbsp;&nbsp; 📚 [Tufte's Author Page on Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
 
 
 😺 _Frank Chimero_:
+
 &nbsp;&nbsp; 📚[Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
 
 Also check out his writings online: 
+
 &nbsp;&nbsp; [Frank Chimero's Website](https://frankchimero.com/)
+
 &nbsp;&nbsp; [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 
 
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
 📚[Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
+
 📚[The Humane Interface _by Jef Raskin_](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1515277142&sr=1-1-catcorr&keywords=the+humane+interface)
+
 📚[The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
 
 **Web Reads**
@@ -113,14 +125,19 @@ Also check out his writings online:
 Brett's website is a rabit hole of valuable content. He's one of the leading researchers on UX right now, and is currently working on an ambitious project to reimagine computing called Dynamic Land
 
 📖 [Worry Dream - Brett's Site](http://worrydream.com/)
+
 📖 [Magic Ink Paper](http://worrydream.com/#!/MagicInk)
+
 📖 [Dynamic Land](https://dynamicland.org/)
 
 ......
 
 😺 _Alan Kay_
+
 📹[Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
+
 📹[The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+
 📖[Alan Kay's Reading List](c2.com/cgi/wiki?AlanKaysReadingList)
 
 ......
@@ -128,49 +145,77 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 📖 [Slack's $2.8 Billion Dollar Secret Sauce - Andrew Wilkinson - Medium](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
 
 ### Videos & Movies
+
 📹 [Designing for Startups, Branden Kowitz from Google Ventures](https://www.youtube.com/watch?v=OpqybH1w4uI)
+
 📹 [All of Gary Hustwit's Movies: Objectified, Helvetica, Urbanized etc.](http://www.hustwit.com/#)
+
 📹 [Abstract: The Art of Design](https://www.netflix.com/title/80057883)
+
 📹 [Jony Ive, Apple's Chief Design Officer, Interviewed by Charlie Rose]( https://charlierose.com/videos/25315)
+
 📹 [Apple - Start with Intention - short video](https://vimeo.com/77720400)
+
 📹 [Teaching to See](https://www.youtube.com/watch?v=ldSkPqZKBl0)
+
 📹 [Organized Wonder Video Archive](http://www.organizedwonder.com/)
 
 ### Courses
+
 📹 [Coursera Interaction Design Specialization from UCSD- 8 courses](https://www.coursera.org/specializations/interaction-design) 
 
 
 ### Tools & Resources
 
 To Design:
+
 ⚒ [Sketch](https://www.sketchapp.com/)
+
 ⚒ [Figma](figma.com)
+
 ⚒ [InVision](invisionapp.com)
+
 ⚒ [Framer](https://framer.com/)
+
 ⚒ [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Before Sketch & Figma was the go-to tool for web layouts, but it's still relevant for many illustration & vector editing tasks. 
+
 ⚒ [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - These days primarily using this for photography work.
+
 ⚒ [After Effects](http://www.adobe.com/products/aftereffects.html)
 
 **Icons**
+
 ⚒ [The Noun Project](https://thenounproject.com/)
+
 ⚒ [Iconfinder](http://iconfinder.com)
 
 **Stock Photography**
+
 ⚒ [Unsplash](http://unsplash.com)
 
 **Fonts**
+
 ⚒ [Typekit](typekit.com)
 
 **Inspiration & Community**
+
 ⚒ [Dribbble](dribbble.com) - Designers share their work on different products. Can be good for visual inspiration
+
 ⚒ [Sidebar.io](sidebar.io) - 5 great design links shared every day
+
 ⚒ [Designer News](https://www.designernews.co/) - Like Reddit for Design.
+
 ⚒ [Good UI](https://goodui.org/)
 
 **Analytics Tools**
+
 ⚒ [FullStory](fullstory.com)
+
 ⚒ [MixPanel](mixpanel.com)
+
 ⚒ [Heap](heap.com)
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
@@ -195,75 +240,106 @@ Here's a list of a few things that are good to understand about the code side of
 📖 [How to Explain Object Oriented Programming to a Non-Technical Person](http://programmers.stackexchange.com/questions/34584/how-to-explain-oop-concepts-to-a-non-technical-person)
 
 * What are APIs? What is REST? What is GraphQL? 
+
 [Quora Question: In Layman's Terms What Is an API](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
 
 * Relationship between Database, APIs & Objects
 * oAuth & Authenticating with APIs
 * The concept of abstraction:
+
 📖 [Explaining Abstraction to a Non-Programmer](http://stackoverflow.com/questions/2918308/explaining-abstraction-to-a-non-programmer)
 
 📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 
 ### Tools
+
 ⚒ [Code Academy](https://www.codecademy.com/)
+
 ⚒ [Hopscotch](http://gethopscotch.com). If you want to get a really rough sense of code, download HopScotch & play around with it - it's targeted at kids but it gives an excellent exposure to some of the core concepts:
 
 ### Books
+
 📚 [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?s=books&ie=UTF8&qid=1421855630&sr=1-1&keywords=programming+pearls+4th+edition) - This one is more advanced, but an excellent read as you're ramping up.
+
 📚 [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/ref=pd_sim_b_8?ie=UTF8&refRID=0WHT9BBQ98RBTJY31P20)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
 ## Business, People and Leadership
 
 📖 [Product/Market Fit by Marc Andreesen](http://web.stanford.edu/class/ee204/ProductMarketFit.html)
+
 📖 [Post-Mortem of a Venture Backed Startup](https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df)
 
 📖 [Ray Dalio's Principles](http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf)
+
 📖 [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
 📖 [We Don't Sell Saddles Here - Stewart Butterfield (founder of Slack)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
+
 📖 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
 **Books**
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
 📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
+
 📚 [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=ASTPQ3D6Q5D3ANCN1QED)
+
 📚[Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+
 📚 [Zero To One: Notes on Startups & How to Build the Future](https://www.amazon.co.uk/gp/product/0804139296)
 
 **Videos**
+
 📹 [Stanford E-Corner Talks](https://ecorner.stanford.edu/startups/)
 
 **Courses**
+
 📹📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
 
 **Culture**
+
 📖 [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
+
 📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04) 
 
 
 ### Tools
 
 ⚒ [Trello](trello.com)
+
 ⚒ [Pivotal](pivotaltracker.com)
+
 ⚒ [Jira](https://www.atlassian.com/software/jira)
+
 ⚒ [Notion](https://notion.so)
+
 ⚒ [Airtable](http://airtable.com)
+
 ⚒ [Zapier](http://zapier.com)
+
 ⚒ [Typeform](http://typeform.com)
+
 ⚒ [Clay.run](http://clay.run)
+
 ⚒ [Zeit](http://clay.run)
+
 ⚒ [Heroku](http://clay.run)
+
 ⚒ [Google Cloud](http://clay.run)
+
 ⚒ [Amazon Web Services](http://clay.run)
+
 ⚒ [Webflow](http://clay.run)
+
 ⚒ [SquareSpace](http://clay.run)
+
 ⚒ [Shopify](http://clay.run)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
 
 ---
 
@@ -278,4 +354,4 @@ We borrowed a lot of the styling conventions used by [Front-End Checklist](https
 
 ---
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Back to Top](#table-of-contents)**
