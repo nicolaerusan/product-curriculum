@@ -109,6 +109,10 @@ Also check out his writings online:
 
 &nbsp;&nbsp; [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 
+😺 _Julie Zhou_:
+Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
+[Julie's Blog](https://medium.com/@joulee)
+
 
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
