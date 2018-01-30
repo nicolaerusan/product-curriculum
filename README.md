@@ -65,7 +65,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 **[⬆ Back to Top](#table-of-contents)**
 
----
+<br/>
 
 ![## Design](https://i.imgur.com/5IZNdJl.png)
 
@@ -219,7 +219,7 @@ To Design:
 
 **[⬆ Back to Top](#table-of-contents)**
 
----
+<br/>
 
 ![## Code](https://i.imgur.com/eKnzQuQ.png)
 
@@ -272,7 +272,7 @@ This article actually does a decent job of explaining how the web works
 
 **[⬆ Back to Top](#table-of-contents)**
 
----
+<br/>
 
 ![## Business, People and Leadership](https://i.imgur.com/FCeqn6B.png)
 
