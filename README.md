@@ -173,7 +173,7 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 ### Tools & Resources
 
-To Design:
+**To Design:**
 
 ⚒ [Sketch](https://www.sketchapp.com/)
 
