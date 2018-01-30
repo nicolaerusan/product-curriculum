@@ -45,7 +45,8 @@ There are resources out there that can help you get your bearings in Code, Desig
 
 Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. 
 
-**[⬆ &nbsp; Back to Top](#table-of-contents)**
+
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -63,7 +64,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Intercom on Product Management](https://www.intercom.com/books/product-management)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -75,9 +76,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Stanford d.school Design Process](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
 
-📖 Also their whole d.school toolkit & reading lists:
-
-[d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
+📖 Also their whole d.school toolkit & reading lists: [d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
 
 📖 [Ten Usability Heuristics by Nielsen Norman Group](http://www.nngroup.com/articles/ten-usability-heuristics/)
 
@@ -85,7 +84,9 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Curated List of Product Principles from Different Companies & People](https://principles.design)
 
-**Books**
+<br/>
+
+### Books
 
 😺 Books _by Edward Tufte_:
 
@@ -98,13 +99,13 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 😺 _Frank Chimero_:
 
-&nbsp;&nbsp; 📚[Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
+&nbsp;&nbsp; 📚 [Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
 
 Also check out his writings online: 
 
-&nbsp;&nbsp; [Frank Chimero's Website](https://frankchimero.com/)
+&nbsp;&nbsp; 📖 [Frank Chimero's Website](https://frankchimero.com/)
 
-&nbsp;&nbsp; [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
+&nbsp;&nbsp; 📖 [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 
 😺 _Julie Zhou_:
 Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
@@ -113,13 +114,15 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
-📚[Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
+📚 [Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
 
-📚[The Humane Interface _by Jef Raskin_](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1515277142&sr=1-1-catcorr&keywords=the+humane+interface)
+📚 [The Humane Interface _by Jef Raskin_](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1515277142&sr=1-1-catcorr&keywords=the+humane+interface)
 
-📚[The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
+📚 [The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
 
-**Web Reads**
+<br/>
+
+### Web Reads
 
 😺 _Brett Victor_
 
@@ -135,15 +138,17 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 😺 _Alan Kay_
 
-📹[Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
+📹 [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
 
-📹[The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+📹 [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 
-📖[Alan Kay's Reading List](c2.com/cgi/wiki?AlanKaysReadingList)
+📖 [Alan Kay's Reading List](c2.com/cgi/wiki?AlanKaysReadingList)
 
 ......
 
 📖 [Slack's $2.8 Billion Dollar Secret Sauce - Andrew Wilkinson - Medium](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
+
+<br/>
 
 ### Videos & Movies
 
@@ -161,14 +166,17 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 📹 [Organized Wonder Video Archive](http://www.organizedwonder.com/)
 
+<br/>
+
 ### Courses
 
 📹 [Coursera Interaction Design Specialization from UCSD- 8 courses](https://www.coursera.org/specializations/interaction-design) 
 
+<br/>
 
 ### Tools & Resources
 
-To Design:
+**To Design:**
 
 ⚒ [Sketch](https://www.sketchapp.com/)
 
@@ -216,7 +224,7 @@ To Design:
 
 ⚒ [Heap](heap.com)
 
-**[⬆ &nbsp; Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -256,6 +264,7 @@ This article actually does a decent job of explaining how the web works
 * The concept of abstraction:
 📖 [Explaining Abstraction to a Non-Programmer](http://stackoverflow.com/questions/2918308/explaining-abstraction-to-a-non-programmer)
 
+<br/>
 
 ### Tools
 
@@ -263,13 +272,15 @@ This article actually does a decent job of explaining how the web works
 
 ⚒ [Hopscotch](http://gethopscotch.com). If you want to get a really rough sense of code, download HopScotch & play around with it - it's targeted at kids but it gives an excellent exposure to some of the core concepts:
 
+<br/>
+
 ### Books
 
 📚 [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?s=books&ie=UTF8&qid=1421855630&sr=1-1&keywords=programming+pearls+4th+edition) - This one is more advanced, but an excellent read as you're ramping up.
 
 📚 [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/ref=pd_sim_b_8?ie=UTF8&refRID=0WHT9BBQ98RBTJY31P20)
 
-**[⬆ &nbsp; Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -287,31 +298,41 @@ This article actually does a decent job of explaining how the web works
 
 📖 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
-**Books**
+<br/>
+
+### Books
+
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
 
 📚 [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=ASTPQ3D6Q5D3ANCN1QED)
 
-📚[Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+📚 [Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 
 📚 [Zero To One: Notes on Startups & How to Build the Future](https://www.amazon.co.uk/gp/product/0804139296)
 
-**Videos**
+<br/>
+
+### Videos
 
 📹 [Stanford E-Corner Talks](https://ecorner.stanford.edu/startups/)
 
-**Courses**
+<br/>
 
-📹📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
+### Courses
 
-**Culture**
+📹 📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
+
+<br/>
+
+### Culture
 
 📖 [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
 
 📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04) 
 
+<br/>
 
 ### Tools
 
@@ -345,7 +366,8 @@ This article actually does a decent job of explaining how the web works
 
 ⚒ [Shopify](http://clay.run)
 
-**[⬆ &nbsp; Back to Top](#table-of-contents)**
+
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -360,4 +382,5 @@ We borrowed a lot of the styling conventions used by [Front-End Checklist](https
 
 ---
 
-**[⬆ &nbsp; Back to Top](#table-of-contents)**
+
+**[⬆  Back to Top](#table-of-contents)**
