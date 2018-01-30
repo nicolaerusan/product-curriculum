@@ -73,17 +73,17 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Stanford d.school Design Process](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
 
-📖 Also their whole d.school toolkit & reading lists:
-
-[d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
+📖 Also their whole d.school toolkit & reading lists: [d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
 
 📖 [Ten Usability Heuristics by Nielsen Norman Group](http://www.nngroup.com/articles/ten-usability-heuristics/)
 
 📖 [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/index.html)
-
+  
+  
 ### Product Principles
 📖 [Curated List of Product Principles from Different Companies & People](https://principles.design)
-
+  
+  
 **Books**
 
 😺 Books _by Edward Tufte_:
@@ -112,11 +112,11 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
-📚[Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
+📚 [Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
 
-📚[The Humane Interface _by Jef Raskin_](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1515277142&sr=1-1-catcorr&keywords=the+humane+interface)
+📚 [The Humane Interface _by Jef Raskin_](https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1515277142&sr=1-1-catcorr&keywords=the+humane+interface)
 
-📚[The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
+📚 [The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
 
 **Web Reads**
 
@@ -134,11 +134,11 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 😺 _Alan Kay_
 
-📹[Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
+📹 [Founder School Session: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
 
-📹[The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+📹 [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 
-📖[Alan Kay's Reading List](c2.com/cgi/wiki?AlanKaysReadingList)
+📖 [Alan Kay's Reading List](c2.com/cgi/wiki?AlanKaysReadingList)
 
 ......
 
@@ -286,30 +286,37 @@ This article actually does a decent job of explaining how the web works
 
 📖 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
+
 **Books**
+
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
 📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
 
 📚 [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=ASTPQ3D6Q5D3ANCN1QED)
 
-📚[Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
+📚 [Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 
 📚 [Zero To One: Notes on Startups & How to Build the Future](https://www.amazon.co.uk/gp/product/0804139296)
+
 
 **Videos**
 
 📹 [Stanford E-Corner Talks](https://ecorner.stanford.edu/startups/)
 
+
 **Courses**
 
-📹📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
+📹 📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
+
 
 **Culture**
 
 📖 [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
 
 📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04) 
+
+
 
 
 ### Tools
