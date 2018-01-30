@@ -83,7 +83,6 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/index.html)
 
-### Product Principles
 📖 [Curated List of Product Principles from Different Companies & People](https://principles.design)
 
 **Books**
