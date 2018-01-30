@@ -67,7 +67,9 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 ---
 
-## Design
+![## Design](https://i.imgur.com/5IZNdJl.png)
+
+
 
 📖 [Startups, this Is how design works. - A Guide for Non-Designers by Wells Riley](https://startupsthisishowdesignworks.com/)
 
@@ -219,7 +221,7 @@ To Design:
 
 ---
 
-## Code 
+![## Code](https://i.imgur.com/eKnzQuQ.png)
 
 ### How to Approach Learning About Coding
 
@@ -272,7 +274,7 @@ This article actually does a decent job of explaining how the web works
 
 ---
 
-## Business, People and Leadership
+![## Business, People and Leadership](https://i.imgur.com/FCeqn6B.png)
 
 📖 [Product/Market Fit by Marc Andreesen](http://web.stanford.edu/class/ee204/ProductMarketFit.html)
 
