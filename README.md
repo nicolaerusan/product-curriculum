@@ -14,8 +14,6 @@ If you know anyone who is trying to learn how to become a ‘product’ designer
 
 🙏 Please help contribute resources that you've found helpful!
 
-// SHARE ACTIONS
-
 ## Table of Contents
 
 1. **[What is Product Management](#what-is-product-management)**
