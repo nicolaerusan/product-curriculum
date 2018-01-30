@@ -43,7 +43,8 @@ So where should you start in terms of navigating the waters of understanding the
 
 There are resources out there that can help you get your bearings in Code, Design, and Business/People management, but they’re scattered and there’s no map. We hope this can be the map that guides people to the right resources that help you understand what you need to know to be a good product person. There are a set of starting points in each discipline, and guidance on how to dive deeper in each domain.
 
-Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. What helped you get a better grasp of product? What are good books that can give people a high level understanding of Design and Code? What do you think is important to learn about in each domain and what are good resources to do so (blog posts, online courses, videos?). This is just a grab-bag that can come in handy, and if the community adds resources as well we can collectively stitch a compelling outline of what a product school curriculum might look like.
+Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. 
+
 
 **[⬆  Back to Top](#table-of-contents)**
 
@@ -65,9 +66,11 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 **[⬆  Back to Top](#table-of-contents)**
 
----
+<br/>
 
-## Design
+![## Design](https://i.imgur.com/5IZNdJl.png)
+
+
 
 📖 [Startups, this Is how design works. - A Guide for Non-Designers by Wells Riley](https://startupsthisishowdesignworks.com/)
 
@@ -223,9 +226,9 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 **[⬆  Back to Top](#table-of-contents)**
 
----
+<br/>
 
-## Code 
+![## Code](https://i.imgur.com/eKnzQuQ.png)
 
 ### How to Approach Learning About Coding
 
@@ -279,9 +282,9 @@ This article actually does a decent job of explaining how the web works
 
 **[⬆  Back to Top](#table-of-contents)**
 
----
+<br/>
 
-## Business, People and Leadership
+![## Business, People and Leadership](https://i.imgur.com/FCeqn6B.png)
 
 📖 [Product/Market Fit by Marc Andreesen](http://web.stanford.edu/class/ee204/ProductMarketFit.html)
 
@@ -378,5 +381,6 @@ We borrowed a lot of the styling conventions used by [Front-End Checklist](https
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
+
 
 **[⬆  Back to Top](#table-of-contents)**
