@@ -45,7 +45,7 @@ There are resources out there that can help you get your bearings in Code, Desig
 
 Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. What helped you get a better grasp of product? What are good books that can give people a high level understanding of Design and Code? What do you think is important to learn about in each domain and what are good resources to do so (blog posts, online courses, videos?). This is just a grab-bag that can come in handy, and if the community adds resources as well we can collectively stitch a compelling outline of what a product school curriculum might look like.
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -63,7 +63,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Intercom on Product Management](https://www.intercom.com/books/product-management)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -78,13 +78,12 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 📖 [Ten Usability Heuristics by Nielsen Norman Group](http://www.nngroup.com/articles/ten-usability-heuristics/)
 
 📖 [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/index.html)
-  
-  
-### Product Principles
+
 📖 [Curated List of Product Principles from Different Companies & People](https://principles.design)
-  
-  
-**Books**
+
+<br/>
+
+### Books
 
 😺 Books _by Edward Tufte_:
 
@@ -97,13 +96,13 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 😺 _Frank Chimero_:
 
-&nbsp;&nbsp; 📚[Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
+&nbsp;&nbsp; 📚 [Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
 
 Also check out his writings online: 
 
-&nbsp;&nbsp; [Frank Chimero's Website](https://frankchimero.com/)
+&nbsp;&nbsp; 📖 [Frank Chimero's Website](https://frankchimero.com/)
 
-&nbsp;&nbsp; [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
+&nbsp;&nbsp; 📖 [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 
 😺 _Julie Zhou_:
 Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
@@ -118,7 +117,9 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 
 📚 [The Laws of Simplicity _by John Madea_](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=sr_1_1?s=books&ie=UTF8&qid=1515278096&sr=1-1&keywords=the+laws+of+simplicity+john+maeda)
 
-**Web Reads**
+<br/>
+
+### Web Reads
 
 😺 _Brett Victor_
 
@@ -144,6 +145,8 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 📖 [Slack's $2.8 Billion Dollar Secret Sauce - Andrew Wilkinson - Medium](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
 
+<br/>
+
 ### Videos & Movies
 
 📹 [Designing for Startups, Branden Kowitz from Google Ventures](https://www.youtube.com/watch?v=OpqybH1w4uI)
@@ -160,10 +163,13 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 📹 [Organized Wonder Video Archive](http://www.organizedwonder.com/)
 
+<br/>
+
 ### Courses
 
 📹 [Coursera Interaction Design Specialization from UCSD- 8 courses](https://www.coursera.org/specializations/interaction-design) 
 
+<br/>
 
 ### Tools & Resources
 
@@ -215,7 +221,7 @@ To Design:
 
 ⚒ [Heap](heap.com)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -255,6 +261,7 @@ This article actually does a decent job of explaining how the web works
 * The concept of abstraction:
 📖 [Explaining Abstraction to a Non-Programmer](http://stackoverflow.com/questions/2918308/explaining-abstraction-to-a-non-programmer)
 
+<br/>
 
 ### Tools
 
@@ -262,13 +269,15 @@ This article actually does a decent job of explaining how the web works
 
 ⚒ [Hopscotch](http://gethopscotch.com). If you want to get a really rough sense of code, download HopScotch & play around with it - it's targeted at kids but it gives an excellent exposure to some of the core concepts:
 
+<br/>
+
 ### Books
 
 📚 [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?s=books&ie=UTF8&qid=1421855630&sr=1-1&keywords=programming+pearls+4th+edition) - This one is more advanced, but an excellent read as you're ramping up.
 
 📚 [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/ref=pd_sim_b_8?ie=UTF8&refRID=0WHT9BBQ98RBTJY31P20)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -286,8 +295,9 @@ This article actually does a decent job of explaining how the web works
 
 📖 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
+<br/>
 
-**Books**
+### Books
 
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
@@ -299,25 +309,27 @@ This article actually does a decent job of explaining how the web works
 
 📚 [Zero To One: Notes on Startups & How to Build the Future](https://www.amazon.co.uk/gp/product/0804139296)
 
+<br/>
 
-**Videos**
+### Videos
 
 📹 [Stanford E-Corner Talks](https://ecorner.stanford.edu/startups/)
 
+<br/>
 
-**Courses**
+### Courses
 
 📹 📖 [Peter Thiel's Course at Stanford](http://blakemasters.com/peter-thiels-cs183-startup)
 
+<br/>
 
-**Culture**
+### Culture
 
 📖 [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
 
 📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04) 
 
-
-
+<br/>
 
 ### Tools
 
@@ -351,7 +363,8 @@ This article actually does a decent job of explaining how the web works
 
 ⚒ [Shopify](http://clay.run)
 
-**[⬆ Back to Top](#table-of-contents)**
+
+**[⬆  Back to Top](#table-of-contents)**
 
 ---
 
@@ -366,4 +379,4 @@ We borrowed a lot of the styling conventions used by [Front-End Checklist](https
 
 ---
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆  Back to Top](#table-of-contents)**
