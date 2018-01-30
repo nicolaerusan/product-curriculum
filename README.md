@@ -79,8 +79,6 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 [d.school Reading List](https://dschool.stanford.edu/resources/dschool-reading-list)
 
-[d.school Getting Unstuck Exercise](https://dschool.stanford.edu/resources/getting-unstuck)
-
 📖 [Ten Usability Heuristics by Nielsen Norman Group](http://www.nngroup.com/articles/ten-usability-heuristics/)
 
 📖 [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/index.html)
@@ -227,33 +225,38 @@ To Design:
 
 ### How to Approach Learning About Coding
 
-Here what is really needed for product people is not something that teaches you in depth how to code, but instead a resource that gives you an overview understanding of how software and the tools we build with work (e.g. the Internet, APIs, etc.). There's a book called Design for Hackers which does a good job of teaching high-level design  to non-designers, but I'm not aware of an equivalent book that effectively communicates the concepts behind how software works to non-technical people.
+What is really needed for product people is not something that teaches you in depth how to code, but instead a resource that gives you an overview understanding of how software and the tools we build with work (e.g. the Internet, APIs, etc.). There's a book called Design for Hackers which does a good job of teaching high-level design to non-designers, but I'm not aware of an equivalent book that effectively communicates the concepts behind how software works to non-technical people.
+
+If you've got the time, I'd recommend just giving the entire article by Paul Ford a thorough read, as it touches both on code & the politics of code within companies - and it's well executed so hopefully also sufficiently interesting: 
+📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 
 Here's a list of a few things that are good to understand about the code side of things, along with links to explanations for each (Please help fill these in if you know of good ones):
 * A conceptual understanding of what goes into building a digital product from the code side. You don't need to know how to code, but you should have a rough understanding of what the pieces are that go into building an Internet application.
-* What is an API? What is REST? What do people mean when they say 'The Cloud'?
-* What is a Database?
+* What is a Browser?
 * What is a Web Server?
-* Relationship between Client (your browser) & Server (the thing that gives you the web page)
-* What are some programming languages and in which situations are they suited for the task? What do people mean when they say front-end vs. backend?
-* What is a code Framework (e.g. Rails, Express, React, Django)?
 * How the Internet works at a high level (e.g. what is HTTP, how do domain names work?)
 * What is the difference between the Internet and the World Wide Web?
+* Relationship between Client (your browser) & Server (the thing that gives you the web page)
+
+📖 [How The Web Works](http://www.explainthatstuff.com/howthewebworks.html)
+This article actually does a decent job of explaining how the web works
+
+* What is a Database?
+* What is an API? What is Rest vs. GraphQL?
+[Quora Question: In Layman's Terms What Is an API](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
+
+* Relationship between Database, APIs & Objects?
+* What are some programming languages and in which situations are they suited for the task? What do people mean when they say front-end vs. backend?
+* What is a code Framework (e.g. Rails, Express, React, Django)?
 
 * What is Object Oriented Programming - Conceptual Modelling:
 📖 [How to Explain Object Oriented Programming to a Non-Technical Person](http://programmers.stackexchange.com/questions/34584/how-to-explain-oop-concepts-to-a-non-technical-person)
 
-* What are APIs? What is REST? What is GraphQL? 
-
-[Quora Question: In Layman's Terms What Is an API](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
-
-* Relationship between Database, APIs & Objects
 * oAuth & Authenticating with APIs
-* The concept of abstraction:
 
+* The concept of abstraction:
 📖 [Explaining Abstraction to a Non-Programmer](http://stackoverflow.com/questions/2918308/explaining-abstraction-to-a-non-programmer)
 
-📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 
 ### Tools
 
