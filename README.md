@@ -124,6 +124,9 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 [Julie's Blog](https://medium.com/@joulee)
 
 
+📖 [ProductCoalition](https://productcoalition.com/) Curates articles on Medium around product management
+
+
 😺 _Brett Victor_
 
 Brett's website is a rabit hole of valuable content. He's one of the leading researchers on UX right now, and is currently working on an ambitious project to reimagine computing called Dynamic Land
@@ -303,6 +306,8 @@ This article actually does a decent job of explaining how the web works
 ### Books
 
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
+📚 [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
 
