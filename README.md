@@ -96,6 +96,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 &nbsp;&nbsp; 📚 [Tufte's Author Page on Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
 
+......
 
 😺 _Frank Chimero_:
 
@@ -106,6 +107,8 @@ Also check out his writings online:
 &nbsp;&nbsp; 📖 [Frank Chimero's Website](https://frankchimero.com/)
 
 &nbsp;&nbsp; 📖 [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
+
+......
 
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
@@ -123,9 +126,7 @@ Also check out his writings online:
 Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
 [Julie's Blog](https://medium.com/@joulee)
 
-
-📖 [ProductCoalition](https://productcoalition.com/) Curates articles on Medium around product management
-
+......
 
 😺 _Brett Victor_
 
@@ -150,6 +151,8 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 ......
 
 📖 [Slack's $2.8 Billion Dollar Secret Sauce - Andrew Wilkinson - Medium](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
+
+📖 [ProductCoalition](https://productcoalition.com/) Curates articles on Medium around product management
 
 <br/>
 
@@ -195,19 +198,27 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 
 ⚒ [After Effects](http://www.adobe.com/products/aftereffects.html)
 
+......
+
 **Icons**
 
 ⚒ [The Noun Project](https://thenounproject.com/)
 
 ⚒ [Iconfinder](http://iconfinder.com)
 
+......
+
 **Stock Photography**
 
 ⚒ [Unsplash](http://unsplash.com)
 
+......
+
 **Fonts**
 
 ⚒ [Typekit](typekit.com)
+
+......
 
 **Inspiration & Community**
 
@@ -218,6 +229,14 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 ⚒ [Designer News](https://www.designernews.co/) - Like Reddit for Design.
 
 ⚒ [Good UI](https://goodui.org/)
+
+⚒ [After Effects](http://www.adobe.com/products/aftereffects.html)
+
+⚒ [pttrns](https://pttrns.com/) - Mobile Design Patterns
+
+⚒ [Mobile Patterns](http://mobile-patterns.com/) - Mobile Design Patterns
+
+......
 
 **Analytics Tools**
 
@@ -238,6 +257,7 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 What product people really need is not something that teaches you how to code in depth, but a resource that provides an overall understanding of how software and the tools we build with work (e.g. the Internet, APIs, etc.). There's a book called Design for Hackers which does a good job of teaching high-level design to non-designers, but I'm not aware of an equivalent book that effectively communicates the concepts behind how software works to non-technical people.
 
 If you've got the time, I'd recommend just giving the entire article by Paul Ford a thorough read, as it touches both on code & the politics of code within companies - and it's well executed so hopefully also sufficiently interesting: 
+
 📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 
 Here's a list of a few things that are good to understand about the code side of things, along with links to explanations for each (Please help fill these in if you know of good ones):
@@ -316,6 +336,12 @@ This article actually does a decent job of explaining how the web works
 📚 [Crossing The Chasm by Geoffrey Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 
 📚 [Zero To One: Notes on Startups & How to Build the Future](https://www.amazon.co.uk/gp/product/0804139296)
+
+📚 [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?s=books&ie=UTF8&qid=1517412724&sr=1-1&keywords=sprint)
+
+📚 [The Innovator's Toolkit: 50+ Techniques for Predictable and Sustainable Organic Growth](https://www.amazon.com/Innovators-Toolkit-Techniques-Predictable-Sustainable/dp/1118298101)
+
+📚 [Lean Change Managment: Innovative Practices For Managing Organizational Change](https://www.amazon.com/Lean-Change-Managment-Innovative-Organizational/dp/0990466507)
 
 <br/>
 
