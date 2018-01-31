@@ -129,7 +129,7 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 
 😺 _Brett Victor_
 
-Brett's website is a rabit hole of valuable content. He's one of the leading researchers on UX right now, and is currently working on an ambitious project to reimagine computing called Dynamic Land
+Brett's website is a rabbit hole of valuable content. He's one of the leading researchers on UX right now, and is currently working on an ambitious project to reimagine computing called Dynamic Land
 
 📖 [Worry Dream - Brett's Site](http://worrydream.com/)
 
