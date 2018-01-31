@@ -46,7 +46,7 @@ There are resources out there that can help you get your bearings in Code, Desig
 Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. 
 
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
 
 ---
 
@@ -64,7 +64,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Intercom on Product Management](https://www.intercom.com/books/product-management)
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -107,11 +107,6 @@ Also check out his writings online:
 
 &nbsp;&nbsp; 📖 [What Screens Want](https://frankchimero.com/writing/what-screens-want/)
 
-😺 _Julie Zhou_:
-Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
-[Julie's Blog](https://medium.com/@joulee)
-
-
 📚 [The Design of Everyday Things, _by Donald Norman_](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 
 📚 [Design for Hackers _by David Kadavy_](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty-ebook/dp/B005J578EW)
@@ -123,6 +118,14 @@ Julie is a VP of Product Design @ Facebook and writes extensively on the product
 <br/>
 
 ### Web Reads
+
+😺 _Julie Zhou_:
+Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
+[Julie's Blog](https://medium.com/@joulee)
+
+
+📖 [ProductCoalition](https://productcoalition.com/) Curates articles on Medium around product management
+
 
 😺 _Brett Victor_
 
@@ -224,7 +227,7 @@ Brett's website is a rabit hole of valuable content. He's one of the leading res
 
 ⚒ [Heap](heap.com)
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -280,7 +283,7 @@ This article actually does a decent job of explaining how the web works
 
 📚 [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/ref=pd_sim_b_8?ie=UTF8&refRID=0WHT9BBQ98RBTJY31P20)
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
 
 <br/>
 
@@ -303,6 +306,8 @@ This article actually does a decent job of explaining how the web works
 ### Books
 
 📚 [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
+📚 [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
 
@@ -367,7 +372,7 @@ This article actually does a decent job of explaining how the web works
 ⚒ [Shopify](http://clay.run)
 
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
 
 ---
 
@@ -383,4 +388,4 @@ We borrowed a lot of the styling conventions used by [Front-End Checklist](https
 ---
 
 
-**[⬆  Back to Top](#table-of-contents)**
+**[⬆ &nbsp; Back to Top](#table-of-contents)**
