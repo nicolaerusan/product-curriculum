@@ -263,6 +263,10 @@ What product people really need is not something that teaches you how to code in
 If you've got the time, I'd recommend just giving the entire article by Paul Ford a thorough read, as it touches both on code & the politics of code within companies - and it's well executed so hopefully also sufficiently interesting:
 
 📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
+📚 [Code: The Hidden Language Computer Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+
+If you're going to dive deeper into coding, and try to build some things:
+📚 [Practical Programming: An Introduction to Computer Science Using Python 3](https://www.amazon.com/Practical-Programming-Introduction-Pragmatic-Programmers/dp/1937785459)
 
 Here's a list of a few things that are good to understand about the code side of things, along with links to explanations for each (Please help fill these in if you know of good ones):
 * A conceptual understanding of what goes into building a digital product from the code side. You don't need to know how to code, but you should have a rough understanding of what the pieces are that go into building an Internet application.
