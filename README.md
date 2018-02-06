@@ -188,13 +188,17 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 
 **To Design:**
 
+⚒ [Figma](figma.com) . Figma is like Sketch, but online & collaborative in realtime. At this point we'd recommend it over Sketch as the features are comparable, and for an individual Figma also starts free. It's pretty easy to learn! 
+
+TODO: Add a good Figma Tutorial
+
 ⚒ [Sketch](https://www.sketchapp.com/)
 
-⚒ [Figma](figma.com)
+TODO: Add a good Sketch Tutorial
 
-⚒ [InVision](invisionapp.com)
+⚒ [InVision](invisionapp.com). InVision is a tool to create clickable prototypes. If you're not familiar with the concept of clickable prototypes, it's essentially a way to take the screens you create in Figma, Sketch, or Illustrator, and then stitch them together into something that feels almost like an app: "When someone clicks this area on this screen, show them the other screen". This is a great way to get something that feels like the final product in front of customers, without having to code!
 
-⚒ [Framer](https://framer.com/)
+⚒ [Framer](https://framer.com/). Framer is like InVision, but also gives you the ability to code portions of the interaction - e.g. where you want to show a custom animation or something to that effect.
 
 ⚒ [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Before Sketch & Figma was the go-to tool for web layouts, but it's still relevant for many illustration & vector editing tasks.
 
