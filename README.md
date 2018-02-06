@@ -1,4 +1,4 @@
-<h2 align="center"> ✔ <br/><br/> Product Curriculum </h2>
+<h2 align="center"> ✔ <br/><br/>Open Product Curriculum </h2>
 
 <p align="center">
   <em>A list of useful resources for learning about Product Design & Management.</em>
