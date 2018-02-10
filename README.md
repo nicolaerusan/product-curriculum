@@ -274,6 +274,7 @@ This article actually does a decent job of explaining how the web works
 * What is a Database?
 * What is an API? What is Rest vs. GraphQL?
 [Quora Question: In Layman's Terms What Is an API](http://www.quora.com/In-laymans-terms-what-is-an-API-1)
+[How APIs work — An Analogy For Dummies](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
 
 * Relationship between Database, APIs & Objects?
 * What are some programming languages and in which situations are they suited for the task? What do people mean when they say front-end vs. backend?
