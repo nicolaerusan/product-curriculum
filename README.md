@@ -1,4 +1,4 @@
-<h2 align="center"> ✔ <br/><br/> Product Curriculum </h2>
+<h2 align="center"> ✔ <br/><br/>Open Product Curriculum </h2>
 
 <p align="center">
   <em>A list of useful resources for learning about Product Design & Management.</em>
@@ -8,9 +8,9 @@ This community resource is based on our exepriences running product teams at sta
 
 If you are trying to learn how to become a ‘product’ designer/manager, or looking to learn more about that role, we hope that this set of resources will be useful to you. Share it along and spread the knowledge!
 
-**Disclaimer**: 
+**Disclaimer**:
 * The list is heavily focused on people building internet based digital products. It also leans heavily towards people adopting startup methodologies.
-* This list is opinionanted, as it happens to be a collection of the resources we found valuable as we developed our own skills. We will try to incorporate the lessons & resources others find helpful in developing a sense for building great products. 
+* This list is opinionanted, as it happens to be a collection of the resources we found valuable as we developed our own skills. We will try to incorporate the lessons & resources others find helpful in developing a sense for building great products.
 
 🙏 Please help contribute resources that you've found helpful!
 
@@ -43,7 +43,7 @@ So where should you start in terms of navigating the waters of understanding the
 
 There are resources out there that can help you get your bearings in Code, Design, and Business/People management, but they’re scattered and there’s no map. We hope this can be the map that guides people to the right resources that help you understand what you need to know to be a good product person. There are a set of starting points in each discipline, and guidance on how to dive deeper in each domain.
 
-Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well. 
+Bellow is a list of useful resources we’ve come across, and we’d like to invite you to contribute interesting resources you’ve found as well.
 
 
 **[⬆ &nbsp; Back to Top](#table-of-contents)**
@@ -84,13 +84,17 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 📖 [Curated List of Product Principles from Different Companies & People](https://principles.design)
 
+📖 [Facebook Design](http://facebook.design/)
+
+📖 [IDEO Design Kit](http://www.designkit.org/)
+
 <br/>
 
 ### Books
 
 😺 Books _by Edward Tufte_:
 
-&nbsp;&nbsp; 📚 [The Visual Display of Quantitative Information _by Edward Tufte_](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=asap_bc?ie=UTF8) 
+&nbsp;&nbsp; 📚 [The Visual Display of Quantitative Information _by Edward Tufte_](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=asap_bc?ie=UTF8)
 
 &nbsp;&nbsp; 📚 [Envisioning Information _by Edward Tufte_](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=asap_bc?ie=UTF8)
 
@@ -102,7 +106,7 @@ by Ben Horowitz](https://a16z.com/2012/06/15/good-product-managerbad-product-man
 
 &nbsp;&nbsp; 📚 [Shape of Design _by Frank Chimero_](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
 
-Also check out his writings online: 
+Also check out his writings online:
 
 &nbsp;&nbsp; 📖 [Frank Chimero's Website](https://frankchimero.com/)
 
@@ -123,7 +127,7 @@ Also check out his writings online:
 ### Web Reads
 
 😺 _Julie Zhou_:
-Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly 
+Julie is a VP of Product Design @ Facebook and writes extensively on the product process, and product management more broadly
 [Julie's Blog](https://medium.com/@joulee)
 
 ......
@@ -176,7 +180,7 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 
 ### Courses
 
-📹 [Coursera Interaction Design Specialization from UCSD- 8 courses](https://www.coursera.org/specializations/interaction-design) 
+📹 [Coursera Interaction Design Specialization from UCSD- 8 courses](https://www.coursera.org/specializations/interaction-design)
 
 <br/>
 
@@ -184,15 +188,19 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 
 **To Design:**
 
+⚒ [Figma](figma.com) . Figma is like Sketch, but online & collaborative in realtime. At this point we'd recommend it over Sketch as the features are comparable, and for an individual Figma also starts free. It's pretty easy to learn! 
+
+TODO: Add a good Figma Tutorial
+
 ⚒ [Sketch](https://www.sketchapp.com/)
 
-⚒ [Figma](figma.com)
+TODO: Add a good Sketch Tutorial
 
-⚒ [InVision](invisionapp.com)
+⚒ [InVision](invisionapp.com). InVision is a tool to create clickable prototypes. If you're not familiar with the concept of clickable prototypes, it's essentially a way to take the screens you create in Figma, Sketch, or Illustrator, and then stitch them together into something that feels almost like an app: "When someone clicks this area on this screen, show them the other screen". This is a great way to get something that feels like the final product in front of customers, without having to code!
 
-⚒ [Framer](https://framer.com/)
+⚒ [Framer](https://framer.com/). Framer is like InVision, but also gives you the ability to code portions of the interaction - e.g. where you want to show a custom animation or something to that effect.
 
-⚒ [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Before Sketch & Figma was the go-to tool for web layouts, but it's still relevant for many illustration & vector editing tasks. 
+⚒ [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Before Sketch & Figma was the go-to tool for web layouts, but it's still relevant for many illustration & vector editing tasks.
 
 ⚒ [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - These days primarily using this for photography work.
 
@@ -256,9 +264,13 @@ Brett's website is a rabbit hole of valuable content. He's one of the leading re
 
 What product people really need is not something that teaches you how to code in depth, but a resource that provides an overall understanding of how software and the tools we build with work (e.g. the Internet, APIs, etc.). There's a book called Design for Hackers which does a good job of teaching high-level design to non-designers, but I'm not aware of an equivalent book that effectively communicates the concepts behind how software works to non-technical people.
 
-If you've got the time, I'd recommend just giving the entire article by Paul Ford a thorough read, as it touches both on code & the politics of code within companies - and it's well executed so hopefully also sufficiently interesting: 
+If you've got the time, I'd recommend just giving the entire article by Paul Ford a thorough read, as it touches both on code & the politics of code within companies - and it's well executed so hopefully also sufficiently interesting:
 
 📖 [Paul Ford's 2015 Piece: What is Code](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
+📚 [Code: The Hidden Language Computer Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+
+If you're going to dive deeper into coding, and try to build some things:
+📚 [Practical Programming: An Introduction to Computer Science Using Python 3](https://www.amazon.com/Practical-Programming-Introduction-Pragmatic-Programmers/dp/1937785459)
 
 Here's a list of a few things that are good to understand about the code side of things, along with links to explanations for each (Please help fill these in if you know of good ones):
 * A conceptual understanding of what goes into building a digital product from the code side. You don't need to know how to code, but you should have a rough understanding of what the pieces are that go into building an Internet application.
@@ -287,6 +299,9 @@ This article actually does a decent job of explaining how the web works
 
 * The concept of abstraction:
 📖 [Explaining Abstraction to a Non-Programmer](http://stackoverflow.com/questions/2918308/explaining-abstraction-to-a-non-programmer)
+
+* Humor and Perspective
+📖 [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
 
 <br/>
 
@@ -330,7 +345,7 @@ This article actually does a decent job of explaining how the web works
 
 📚 [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
-📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) 
+📚 [Founders at Work: Stories of Startups Early Days](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
 
 📚 [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=ASTPQ3D6Q5D3ANCN1QED)
 
@@ -362,7 +377,7 @@ This article actually does a decent job of explaining how the web works
 
 📖 [Netflix Culture Deck](https://www.slideshare.net/reed2001/culture-1798664)
 
-📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04) 
+📖 [Buffer Culture Deck](https://www.slideshare.net/Bufferapp/buffer-culture-04)
 
 <br/>
 
