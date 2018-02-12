@@ -206,6 +206,7 @@ TODO: Add a good Sketch Tutorial
 
 ⚒ [After Effects](http://www.adobe.com/products/aftereffects.html)
 
+
 ......
 
 **Icons**
@@ -243,6 +244,8 @@ TODO: Add a good Sketch Tutorial
 ⚒ [pttrns](https://pttrns.com/) - Mobile Design Patterns
 
 ⚒ [Mobile Patterns](http://mobile-patterns.com/) - Mobile Design Patterns
+
+* [Free & Willing: Design and Prototype Marketplace](https://freeandwilling.com/c/DesignAndPrototype?cid=42&t=grid) - List of useful resources around Sketch, Figma & prototyping
 
 ......
 
